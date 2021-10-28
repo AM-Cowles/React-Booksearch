@@ -1,0 +1,9 @@
+{
+    "name": "booksearch",
+    "homepage": "https://github.com/aseppala98/react-booksearch#readme",
+    "version": "1.0.0",
+    "description": "React Book Search",
+    "main": "server.js",
+    "engines": {
+    "node": "14.x"
+    },
